@@ -1,0 +1,24 @@
+﻿  glad.c
+  main.cpp
+c:\users\17838\source\repos\test\test\main.cpp(449): warning C4305: “+=”: 从“double”到“float”截断
+c:\users\17838\source\repos\test\test\main.cpp(454): warning C4305: “-=”: 从“double”到“float”截断
+  shader.cpp
+  stb_image.cpp
+  test.cpp
+  正在生成代码...
+c:\users\17838\source\repos\test\test\main.cpp(365): warning C4715: “dealError”: 不是所有的控件路径都返回值
+main.obj : error LNK2019: 无法解析的外部符号 glfwInit，该符号在函数 "struct GLFWwindow * __cdecl showWindowSomething(void)" (?showWindowSomething@@YAPEAUGLFWwindow@@XZ) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 glfwTerminate，该符号在函数 "int __cdecl dealError(struct GLFWwindow *)" (?dealError@@YAHPEAUGLFWwindow@@@Z) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 glfwWindowHint，该符号在函数 "struct GLFWwindow * __cdecl showWindowSomething(void)" (?showWindowSomething@@YAPEAUGLFWwindow@@XZ) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 glfwCreateWindow，该符号在函数 "struct GLFWwindow * __cdecl showWindowSomething(void)" (?showWindowSomething@@YAPEAUGLFWwindow@@XZ) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 glfwWindowShouldClose，该符号在函数 main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 glfwSetWindowShouldClose，该符号在函数 "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPEAUGLFWwindow@@@Z) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 glfwSetFramebufferSizeCallback，该符号在函数 "int __cdecl dealError(struct GLFWwindow *)" (?dealError@@YAHPEAUGLFWwindow@@@Z) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 glfwPollEvents，该符号在函数 main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 glfwGetKey，该符号在函数 "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPEAUGLFWwindow@@@Z) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 glfwGetTime，该符号在函数 "void __cdecl drawMyElement(unsigned int,unsigned int *,unsigned int,bool,unsigned int)" (?drawMyElement@@YAXIPEAII_NI@Z) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 glfwMakeContextCurrent，该符号在函数 "int __cdecl dealError(struct GLFWwindow *)" (?dealError@@YAHPEAUGLFWwindow@@@Z) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 glfwSwapBuffers，该符号在函数 main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 glfwGetProcAddress，该符号在函数 "int __cdecl dealError(struct GLFWwindow *)" (?dealError@@YAHPEAUGLFWwindow@@@Z) 中被引用
+C:\Users\17838\Desktop\study\opengl\glfw-3.3.bin.WIN64\lib-vs2017\glfw3.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+C:\Users\17838\source\repos\test\x64\Debug\test.exe : fatal error LNK1120: 13 个无法解析的外部命令

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "light_opengl", "light_opengl\light_opengl.vcxproj", "{780E3299-2A02-465E-83AD-B4571471D934}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{780E3299-2A02-465E-83AD-B4571471D934}.Debug|x64.ActiveCfg = Debug|x64
+		{780E3299-2A02-465E-83AD-B4571471D934}.Debug|x64.Build.0 = Debug|x64
+		{780E3299-2A02-465E-83AD-B4571471D934}.Debug|x86.ActiveCfg = Debug|Win32
+		{780E3299-2A02-465E-83AD-B4571471D934}.Debug|x86.Build.0 = Debug|Win32
+		{780E3299-2A02-465E-83AD-B4571471D934}.Release|x64.ActiveCfg = Release|x64
+		{780E3299-2A02-465E-83AD-B4571471D934}.Release|x64.Build.0 = Release|x64
+		{780E3299-2A02-465E-83AD-B4571471D934}.Release|x86.ActiveCfg = Release|Win32
+		{780E3299-2A02-465E-83AD-B4571471D934}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D1E0DA2-A94D-4DC2-ACDE-6C65B7E4E458}
+	EndGlobalSection
+EndGlobal

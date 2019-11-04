@@ -1,0 +1,7 @@
+﻿  game.cpp
+c:\users\17838\source\repos\opengl_2dgame\opengl_2dgame\game.cpp(161): warning C4244: “参数”: 从“double”转换到“uint”，可能丢失数据
+c:\users\17838\source\repos\opengl_2dgame\opengl_2dgame\game.cpp(162): warning C4244: “参数”: 从“double”转换到“uint”，可能丢失数据
+c:\users\17838\source\repos\opengl_2dgame\opengl_2dgame\game.cpp(163): warning C4244: “参数”: 从“double”转换到“uint”，可能丢失数据
+c:\users\17838\source\repos\opengl_2dgame\opengl_2dgame\game.cpp(164): warning C4244: “参数”: 从“double”转换到“uint”，可能丢失数据
+c:\users\17838\source\repos\opengl_2dgame\opengl_2dgame\game.cpp(258): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  opengl_2dgame.vcxproj -> C:\Users\17838\source\repos\opengl_2dgame\Debug\opengl_2dgame.exe

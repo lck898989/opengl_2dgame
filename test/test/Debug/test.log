@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\17838\source\repos\test\test\main.cpp(299): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\17838\source\repos\test\test\main.cpp(300): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\17838\source\repos\test\test\main.cpp(510): warning C4305: “+=”: 从“double”到“float”截断
+c:\users\17838\source\repos\test\test\main.cpp(515): warning C4305: “-=”: 从“double”到“float”截断
+c:\users\17838\source\repos\test\test\main.cpp(426): warning C4715: “dealError”: 不是所有的控件路径都返回值
+  test.vcxproj -> C:\Users\17838\source\repos\test\Debug\test.exe

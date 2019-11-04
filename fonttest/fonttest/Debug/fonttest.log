@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\17838\source\repos\fonttest\fonttest\main.cpp(145): warning C4838: 从“FT_Pos”转换到“GLuint”需要收缩转换
+  fonttest.vcxproj -> C:\Users\17838\source\repos\fonttest\Debug\fonttest.exe
